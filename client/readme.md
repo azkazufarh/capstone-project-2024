@@ -1,1 +1,0 @@
-Buat mobile development
